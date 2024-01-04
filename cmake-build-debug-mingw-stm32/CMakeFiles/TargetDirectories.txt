@@ -1,0 +1,3 @@
+D:/STM32_CODE/yegong2/slk-freertos/cmake-build-debug-mingw-stm32/CMakeFiles/SLK-FreeRTOS.elf.dir
+D:/STM32_CODE/yegong2/slk-freertos/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+D:/STM32_CODE/yegong2/slk-freertos/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir
